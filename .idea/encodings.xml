@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/AntRangerAuth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AntRangerResource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AntRangerUI" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DemoAuth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DemoUI" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Demoresource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Demoui" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

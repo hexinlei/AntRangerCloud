@@ -1,0 +1,19 @@
+server:
+    port: 6666
+security:
+  oauth2:
+    resource:
+      token-info-uri: ${auth-server:http://localhost:5555/auth}/oauth/check_token
+    client:
+      client-id: web
+      client-secret: web_secret
+spring:
+  session:
+    store-type: hash_map
+  jackson:
+    date-format: com.fasterxml.jackson.databind.util.ISO8601DateFormat
+logging:
+  level:
+    org.springframework.security: DEBUG
+
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AntRangerAuth/AntRangerAuth.iml" filepath="$PROJECT_DIR$/AntRangerAuth/AntRangerAuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AntRangerResource/AntRangerResource.iml" filepath="$PROJECT_DIR$/AntRangerResource/AntRangerResource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AntRangerUI/AntRangerUI.iml" filepath="$PROJECT_DIR$/AntRangerUI/AntRangerUI.iml" />
+    </modules>
+  </component>
+</project>
